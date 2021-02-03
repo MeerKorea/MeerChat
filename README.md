@@ -56,12 +56,12 @@
     - [x] cobra에서 구현
     
 ### 뷰
-- [ ] Room
-    - [ ] Room 목록 갱신(추가/제거)
-    - [ ] Room focus 표시
-- [ ] Chat
-    - [ ] 받은 메세지 출력
-    - [ ] 채팅내역 clean
-- [ ] User
-    - [ ] 받은 유저정보 출력
+- [x] Room
+    - [x] Room 목록 갱신(추가/제거)
+    - [x] Room focus 표시
+- [x] Chat
+    - [x] 받은 메세지 출력
+    - [x] 채팅내역 clean
+- [x] User
+    - [x] 받은 유저정보 출력
 
